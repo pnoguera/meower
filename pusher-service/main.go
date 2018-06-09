@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/kelseyhightower/envconfig"
-	"github.com/tinrab/meower/event"
+	"github.com/pnoguera/meower/event"
 	"github.com/tinrab/retry"
 )
 

@@ -8,8 +8,8 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/kelseyhightower/envconfig"
-	"github.com/tinrab/meower/db"
-	"github.com/tinrab/meower/event"
+	"github.com/pnoguera/meower/db"
+	"github.com/pnoguera/meower/event"
 	"github.com/tinrab/retry"
 )
 

@@ -6,7 +6,7 @@ import (
 	"log"
 
 	"github.com/olivere/elastic"
-	"github.com/tinrab/meower/schema"
+	"github.com/pnoguera/meower/schema"
 )
 
 type ElasticRepository struct {

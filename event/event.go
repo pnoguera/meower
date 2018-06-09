@@ -1,6 +1,6 @@
 package event
 
-import "github.com/tinrab/meower/schema"
+import "github.com/pnoguera/meower/schema"
 
 type EventStore interface {
 	Close()
